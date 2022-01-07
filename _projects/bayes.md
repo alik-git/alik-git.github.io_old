@@ -2,7 +2,7 @@
 layout: distill
 title: "Uncertainty Estimation: Not So Bayes-ic"
 description: Modelling Uncertainty in Neural Networks.
-img: assets/img/project_assets/ift_project_thumb.png
+img: assets/img/project_assets/bayes/thumbnail.png
 importance: 2
 date: 2022-01-01
 category: work
@@ -38,9 +38,9 @@ In this project we provide our own implementation of an approach towards modelin
 Here is our poster for a quick overview:
 
 
-<object data="/assets/img/project_assets/IFT_6269_Fall_2021___Final_Project_Poster___Group_16.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/img/project_assets/IFT_6269_Fall_2021___Final_Project_Poster___Group_16.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+<object data="/assets/img/project_assets/bayes/IFT_6269_Fall_2021___Final_Project_Poster___Group_16.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/img/project_assets/bayes/IFT_6269_Fall_2021___Final_Project_Poster___Group_16.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://alihkw.com/assets/img/project_assets/bayes/IFT_6269_Fall_2021___Final_Project_Poster___Group_16.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
@@ -57,6 +57,18 @@ And you can check out the code here:
 
 And a report coming soon! Stay tuned :P
 
+### Poster Image (PNG)
+
+You may wanna open this in a new tab
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/project_assets/bayes/IFT_6269_Fall_2021___Final_Project_Poster___Group_16-1.png' | relative_url }}" alt="" title="PGM Final Project Poster"/>
+    </div>
+</div>
+<div class="caption">
+    "Uncertainty Estimation: Not So Bayes-ic"
+</div>
 
 <!-- assets/img/project_assets/
 
