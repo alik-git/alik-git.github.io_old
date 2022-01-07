@@ -1,7 +1,7 @@
 ---
 layout: redirect
 permalink: /cv/
-title: CV
+title: cv
 description: My current resume
 rurl: /cv.pdf
 nav: true
