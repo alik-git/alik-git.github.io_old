@@ -22,9 +22,9 @@ During the first semester of my master's, my final project for Liam Paull's Duck
 
 #### Project Report:
 
-And the report [here](/assets/img/project_assets/mbrl_report.pdf).
+And the report [here](/assets/img/project_assets/mbrl/mbrl_report.pdf).
 
-<a href="/assets/img/project_assets/mbrl_report.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+<!-- <a href="/assets/img/project_assets/mbrl/mbrl_report.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a> -->
 ---
 
 <div class="row justify-content-sm-center">
