@@ -52,7 +52,7 @@ blockquote {
 .title {
   font-size: 2.5rem;
   font-family: 'Noto Sans JP', serif;
-  color: $theme-color;
+  color: var(--global-theme-color);
 }
 
 .post {
@@ -112,7 +112,7 @@ blockquote {
   background-color: var(--global-bg-color);
   // opacity: 0.95;
   .title {
-    color: $theme-color;
+    color: var(--global-theme-color);
   }
 }
 
