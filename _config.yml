@@ -2,24 +2,24 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Ali Kuwajerwala # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Ali
-middle_name: #
-last_name: Kuwajerwala
-email: # you@example.com
+middle_name: R.
+last_name: Name
+email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Ali's website, with links and everything. 
+  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-# Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-# Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-# Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: ali, kuwajerwala, robotics, engineer, computer, science, artificial, intelligence, academic-website, portfolio-website  # add your own keywords or leave empty
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: # 🔥 # the emoji used as the favicon
-url: # https://alik-git.github.io # the base hostname & protocol for your site
+icon: 🔥 # the emoji used as the favicon
+url: https://alik-git.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: true # set to true if you want to display last updated in the footer
+last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -46,16 +46,16 @@ max_width: 800px
 # Display links to the page with a preview object on social media.
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: "https://alihkw.com/assets/img/portrait.jpg" # The site-wide (default for all links) Open Graph preview image
+og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: alik-git# your GitHub user name
+github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: alihkw_ # your Twitter handle
-linkedin_username: alihkw # your LinkedIn user name
+twitter_username: # your Twitter handle
+linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -72,7 +72,7 @@ stackoverflow_id: #your stackoverflow id
 rss_icon: true
 
 contact_note: >
-  Feel free to reach out via email and check out my github / linkedin profiles.
+  You can even add a little note about which of these is the best way to reach you.
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -83,8 +83,8 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: writingPractice  # your blog must have a name for it to show up in the nav bar
-blog_description: A blog powered mostly be daydreaming 
+blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
+blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
 # Pagination
