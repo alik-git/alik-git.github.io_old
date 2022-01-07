@@ -21,7 +21,7 @@ During the first semester of my master's, my final project for Liam Paull's Duck
 
 #### Project Report:
 
-And the report [here](https://alihkw.com/LaDy%20Duckie%20-%20Model%20Based%20RL%20in%20Gym-Duckietown%20(Report).pdf).
+And the report [here]('assets/img/project_assets/LaDy Duckie - Model Based RL in Gym-Duckietown (Report).pdf').
 
 ---
 
