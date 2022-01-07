@@ -287,82 +287,82 @@ footer.sticky-bottom {
   }
 }
 
-d-title {
-  background-color: #005ba1d7;
-  color: white;
-  p {
-    // font-weight: lighter;
-    font-size: 1.3rem;
-  }
+// d-title {
+//   background-color: #005ba1d7;
+//   color: white;
+//   p {
+//     // font-weight: lighter;
+//     font-size: 1.3rem;
+//   }
 
-}
+// }
 
-d-byline {
-  font-size: 1.0rem;
-}
+// d-byline {
+//   font-size: 1.0rem;
+// }
 
-d-article {
-  p{
-  }
-}
-
-
-// Add gradient background and change title + subtitle color to white
-// Also add a subtle text shadow 
-d-title {
-  background-image: linear-gradient(to right, rgb(38, 99, 156) , rgb(42, 50, 121));
-  color: white;
-
-  h1 {
-
-    // justify-content: center;
-    // background-color: rgba(0, 0, 0, 0.287);
-    // text-shadow: 1px 1px 3px black;
-  }
+// d-article {
+//   p{
+//   }
+// }
 
 
-  p {
-    // font-weight: lighter;
-    font-size: 1.3rem;
-    // text-shadow: 1px 1px 2px black;
-    // text-shadow: 1px 1px  black;
-  }
+// // Add gradient background and change title + subtitle color to white
+// // Also add a subtle text shadow 
+// d-title {
+//   background-image: linear-gradient(to right, rgb(38, 99, 156) , rgb(42, 50, 121));
+//   color: white;
 
-}
+//   h1 {
 
-// Make author heading blue to match
-d-byline {
-  font-size: 1em;
-  h3 {
-    color: rgb(0, 83, 161);
-    font-size: 0.8em;
+//     // justify-content: center;
+//     // background-color: rgba(0, 0, 0, 0.287);
+//     // text-shadow: 1px 1px 3px black;
+//   }
 
-  }
-}
 
-// Make article headings green
-d-article {
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    color: rgb(21,153,87);
-    // text-shadow: 1px 1px  black;
-  }
+//   p {
+//     // font-weight: lighter;
+//     font-size: 1.3rem;
+//     // text-shadow: 1px 1px 2px black;
+//     // text-shadow: 1px 1px  black;
+//   }
 
-  // Make blockquote nicer
-  blockquote {
-    border-left: 0.3em solid #c5e3ff;
-    color: #575757;
+// }
 
-    padding-top: 0.5em;
-    // padding-bottom: 0.5em;
-    padding-left: 1em;
-    padding-right: 1em;
-  }
-}
+// // Make author heading blue to match
+// d-byline {
+//   font-size: 1em;
+//   h3 {
+//     color: rgb(0, 83, 161);
+//     font-size: 0.8em;
+
+//   }
+// }
+
+// // Make article headings green
+// d-article {
+//   h1,
+//   h2,
+//   h3,
+//   h4,
+//   h5,
+//   h6 {
+//     color: rgb(21,153,87);
+//     // text-shadow: 1px 1px  black;
+//   }
+
+//   // Make blockquote nicer
+//   blockquote {
+//     border-left: 0.3em solid #c5e3ff;
+//     color: #575757;
+
+//     padding-top: 0.5em;
+//     // padding-bottom: 0.5em;
+//     padding-left: 1em;
+//     padding-right: 1em;
+//   }
+// }
 
 .post-list {
   margin: 0;
