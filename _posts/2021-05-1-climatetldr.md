@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: "Climate Change: A TL;DR"
+title: "Climate Change Article: Currently Still A Work in Progress"
 description: What to do about the current climate crisis
 date: 2021-05-10
 authors:
@@ -20,11 +20,7 @@ importance: 1
 
 ---
 
----
 
-**_A Casual Book Review_**
-
----
 Don't forget to hover over the graph, it's interactive!!
 
 You can double click on items in the legend to focus on them.
@@ -33,7 +29,7 @@ Clicking once excludes it from the graph.
 
 ### Sources of Emission (in Billions of Tons of Carbon)
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/assets/figs/file.html" height="700" width="100%"></iframe>
+<!-- <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/assets/figs/file.html" height="700" width="100%"></iframe> -->
 
 This is currently a work in progress.
 
