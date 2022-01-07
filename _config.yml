@@ -240,7 +240,8 @@ imagemagick:
   input_directories:
     - assets/img
     # Ali's further directories
-    - assets/img/**/
+    # Use this v if you need to include all dirs in assets/img 
+    # - assets/img/**/
     - assets/img/project_assets/**/
     # - assets/img/profile_pics
     # - assets/img/project_assets
