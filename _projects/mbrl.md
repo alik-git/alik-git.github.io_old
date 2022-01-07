@@ -24,6 +24,7 @@ During the first semester of my master's, my final project for Liam Paull's Duck
 
 And the report [here]('assets/img/project_assets/LaDy Duckie - Model Based RL in Gym-Duckietown (Report).pdf').
 
+<a href="/assets/img/project_assets/LaDy Duckie - Model Based RL in Gym-Duckietown (Report).pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
 ---
 
 <div class="row justify-content-sm-center">
