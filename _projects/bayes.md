@@ -37,7 +37,7 @@ In this project we provide our own implementation of an approach towards modelin
 
 You can take a look at our project poster here for a quick summary of our results. It's available in both landscape (scroll down) and portrait PDF format.
 
-#### Portrait: [(Direct Link Here)](/assets/img/project_assets/bayes/bayes_poster_long.pdf)
+Portrait: [(Direct Link Here)](/assets/img/project_assets/bayes/bayes_poster_long.pdf)
 
 
 <object data="/assets/img/project_assets/bayes/bayes_poster_long.pdf" type="application/pdf" width="700px" height="700px">
@@ -46,7 +46,11 @@ You can take a look at our project poster here for a quick summary of our result
     </embed>
 </object>
 
-#### Landscape: [(Direct Link Here)](/assets/img/project_assets/bayes/bayes_poster.pdf)
+<pre>
+
+</pre>
+
+Landscape: [(Direct Link Here)](/assets/img/project_assets/bayes/bayes_poster.pdf)
 
 <object data="/assets/img/project_assets/bayes/bayes_poster.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/assets/img/project_assets/bayes/bayes_poster.pdf">
