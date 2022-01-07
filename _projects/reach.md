@@ -2,7 +2,7 @@
 layout: redirect
 title: backwards reachability tutorial
 description: Using reachability analysis to compute safety guarantees for safety critical dynamic systems.
-img: /assets/img/project_assets/rcube.png
+img: assets/img/project_assets/rcube.png
 rurl: https://rvl.cs.toronto.edu/backwards-reachability/
 importance: 3
 date: 2020-08-31

@@ -2,7 +2,7 @@
 layout: redirect
 title: Neocirkuits
 description: A puzzle game for Android based on graph theory problems.
-img: /assets/img/project_assets/neo.png
+img: assets/img/project_assets/neo.png
 rurl: https://github.com/alik-git/NeoCirkuits
 importance: 5
 category: fun
