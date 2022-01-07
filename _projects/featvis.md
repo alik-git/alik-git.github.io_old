@@ -5,7 +5,7 @@ description: Visualizing how Neural Networks build up their understanding of ima
 # img: assets/img/12.jpg
 # img: assets/img/project_assets/gogh.png
 # img: assets/img/gogh.png
-img: assets/img/project_assets/featvis/thumbnail.png
+img: assets/img/project_assets/featvis/featvis_thumbnail.png
 rurl: https://github.com/alik-git/Feature-Visualization-Notebook/blob/master/Feature-Visualization.ipynb
 importance: 4
 category: fun

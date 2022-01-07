@@ -2,7 +2,7 @@
 layout: distill
 title: "Uncertainty Estimation: Not So Bayes-ic"
 description: Modelling Uncertainty in Neural Networks.
-img: assets/img/project_assets/bayes/thumbnail.png
+img: assets/img/project_assets/bayes/bayes_thumbnail.png
 importance: 2
 date: 2022-01-01
 category: work
