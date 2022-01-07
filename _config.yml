@@ -239,6 +239,10 @@ imagemagick:
     - 1400
   input_directories:
     - assets/img/
+    # Ali's further directories 
+    - assets/img/profile_pics
+    - assets/img/project_assets
+    - assets/img/project_thumbnails
   input_formats:
     - ".jpg"
     - ".jpeg"
