@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Master's Candidate @ UdeM & Mila (Robotics and AI)
 
 profile:
   align: right
