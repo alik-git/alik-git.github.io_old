@@ -241,6 +241,7 @@ imagemagick:
     - assets/img/
     # Ali's further directories 
     - assets/img/**/
+    - assets/img/project_assets/**/
     # - assets/img/profile_pics
     # - assets/img/project_assets
     # - assets/img/project_thumbnails
