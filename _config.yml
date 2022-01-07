@@ -243,9 +243,6 @@ imagemagick:
     # Use this v if you need to include all dirs in assets/img 
     # - assets/img/**/
     - assets/img/project_assets/**/
-    # - assets/img/profile_pics
-    # - assets/img/project_assets
-    # - assets/img/project_thumbnails
   input_formats:
     - ".jpg"
     - ".jpeg"
