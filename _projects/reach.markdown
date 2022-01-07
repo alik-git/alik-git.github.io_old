@@ -6,6 +6,7 @@ img: /assets/img/project_assets/rcube.png
 rurl: https://rvl.cs.toronto.edu/backwards-reachability/
 importance: 3
 date: 2020-08-31
+category: work
 
 authors:
   - name: Ali Kuwajerwala
