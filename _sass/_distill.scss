@@ -7,7 +7,8 @@ d-byline {
 }
 
 d-byline h3 {
-  color: var(--global-text-color) !important;
+  // Ali making Authors heading green
+  color: var(--global-distill-h-color) !important;
 }
 
 d-byline a, d-article d-byline a {
@@ -20,6 +21,10 @@ d-byline a, d-article d-byline a {
 d-article {
   border-top-color: var(--global-divider-color) !important;
   a, p, h1, h2, h3, h4, h5, h6, li, table {
+    color: var(--global-text-color) !important;
+  }
+  // Ali making headings green
+  h1, h2, h3, h4, h5, h6 {
     color: var(--global-distill-h-color) !important;
   }
   a, h1, h2, hr, table, table th, table td {
