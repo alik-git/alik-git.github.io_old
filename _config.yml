@@ -10,6 +10,7 @@ email: # you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ali's website, with links and everything. 
 footer_text: >
+Maybe
 # Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
@@ -46,7 +47,7 @@ max_width: 800px
 # Display links to the page with a preview object on social media.
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: "https://alihkw.com/assets/img/portrait.jpg" # The site-wide (default for all links) Open Graph preview image
+og_image: # "https://alihkw.com/assets/img/portrait.jpg" # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
