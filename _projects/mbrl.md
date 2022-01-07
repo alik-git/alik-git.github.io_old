@@ -3,7 +3,7 @@ layout: page
 title: Model Based RL in Duckietown
 description: An on-going project for Model Based Reinforcement Learning in the Gym-Duckietown Environment!
 # img: assets/img/project_assets/RL_duckiy_project.png
-img: assets/img/project_assets/mbrl/thumbnail.png
+img: assets/img/project_assets/mbrl/mbrl_thumbnail.png
 # redirect: /cv.pdf
 importance: 1
 category: work
