@@ -140,6 +140,9 @@ blockquote {
   }
   .navbar-brand {
     color: var(--global-text-color);
+    .title{
+      color: var(--global-theme-color);
+    }
   }
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
