@@ -21,12 +21,15 @@ layout: default
               class="img-fluid z-dept-1 rounded"
               alt=page.profile.image -%}
             {% endif -%}
+            <!-- SEE HERE 
+            ALI ADDING ANOTHER PICTURE  -->
             {%- if page.profile.image_long %}
               {%- assign profile_image_long_path = page.profile.image_long | prepend: 'assets/img/' -%}
               {% include figure.html
               path=profile_image_long_path
               class="img-fluid z-dept-1 rounded" -%}
             {% endif -%}
+            <!-- END OF ALI'S CHANGES  -->
             {%- if page.profile.address %}
             <div class="address">
               {{ page.profile.address }}
