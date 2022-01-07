@@ -46,9 +46,7 @@ Portrait: [(Direct Link Here)](/assets/img/project_assets/bayes/bayes_poster_lon
     </embed>
 </object>
 
-<pre>
-
-</pre>
+<br/><br/>
 
 Landscape: [(Direct Link Here)](/assets/img/project_assets/bayes/bayes_poster.pdf)
 
