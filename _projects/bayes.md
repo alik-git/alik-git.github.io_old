@@ -38,9 +38,9 @@ In this project we provide our own implementation of an approach towards modelin
 Here is our poster for a quick overview:
 
 
-<object data="/assets/img/project_assets/bayes/IFT_6269_Fall_2021___Final_Project_Poster___Group_16.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/img/project_assets/bayes/IFT_6269_Fall_2021___Final_Project_Poster___Group_16.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://alihkw.com/assets/img/project_assets/bayes/IFT_6269_Fall_2021___Final_Project_Poster___Group_16.pdf">Download PDF</a>.</p>
+<object data="/assets/img/project_assets/bayes/bayes_poster.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/img/project_assets/bayes/bayes_poster.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://alihkw.com/assets/img/project_assets/bayes/bayes_poster.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
@@ -63,7 +63,7 @@ You may wanna open this in a new tab
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/project_assets/bayes/IFT_6269_Fall_2021___Final_Project_Poster___Group_16-1.png' | relative_url }}" alt="" title="PGM Final Project Poster"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/project_assets/bayes/bayes_poster.png' | relative_url }}" alt="" title="PGM Final Project Poster"/>
     </div>
 </div>
 <div class="caption">
@@ -101,7 +101,7 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/project_assets/IFT_6269_Fall_2021___Final_Project_Poster___Group_16-1.png' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/project_assets/bayes_poster-1.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
