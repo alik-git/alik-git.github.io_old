@@ -5,6 +5,7 @@ description: An on-going project for Model Based Reinforcement Learning in the G
 img: /assets/img/project_assets/RL_duckiy_project.png
 # redirect: /cv.pdf
 importance: 1
+category: work
 ---
 
 ---
