@@ -35,8 +35,18 @@ In this project we provide our own implementation of an approach towards modelin
 
 ### Project Poster:
 
-Here is our poster for a quick overview:
+You can take a look at our project poster here for a quick summary of our results. It's available in both landscape (scroll down) and portrait PDF format.
 
+Portrait: [(Direct Link Here)](/assets/img/project_assets/bayes/bayes_poster_long.pdf)
+
+
+<object data="/assets/img/project_assets/bayes/bayes_poster_long.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/img/project_assets/bayes/bayes_poster_long.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://alihkw.com/assets/img/project_assets/bayes/bayes_poster_long.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+Landscape: [(Direct Link Here)](/assets/img/project_assets/bayes/bayes_poster.pdf)
 
 <object data="/assets/img/project_assets/bayes/bayes_poster.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/assets/img/project_assets/bayes/bayes_poster.pdf">
@@ -57,7 +67,7 @@ And you can check out the code here:
 
 And a report coming soon! Stay tuned :P
 
-### Poster Image (PNG)
+<!-- ### Poster Image (PNG)
 
 You may wanna open this in a new tab
 
@@ -68,7 +78,7 @@ You may wanna open this in a new tab
 </div>
 <div class="caption">
     "Uncertainty Estimation: Not So Bayes-ic"
-</div>
+</div> -->
 
 <!-- assets/img/project_assets/
 
