@@ -28,11 +28,9 @@ figure, img {
 }
 
 blockquote {
-  background: var(--global-bg-color);
-  border-left: 2px solid var(--global-theme-color);
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
-  font-size: 1.2rem;
+  border-left: .25em solid #d2e2f1;
+  color: #5d5d5d;
+  padding: 0 1em;
 }
 
 // Math
@@ -49,6 +47,17 @@ blockquote {
   margin-top: 0.75rem;
   margin-bottom: 1.5rem;
   text-align: center;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-family: 'Noto Sans JP', serif;
+  color: var(--global-theme-color);
+}
+
+.post {
+  font-family: 'Noto Sans JP', serif;
+  font-weight: 300;
 }
 
 // Citation
@@ -101,8 +110,12 @@ blockquote {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
-  opacity: 0.95;
+  // opacity: 0.95;
+  .title {
+    color: var(--global-theme-color);
+  }
 }
+
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
   border: 1px solid var(--global-divider-color);
@@ -271,6 +284,83 @@ footer.sticky-bottom {
   h1 {
     color: var(--global-theme-color);
     font-size: 5rem;
+  }
+}
+
+d-title {
+  background-color: #005ba1d7;
+  color: white;
+  p {
+    // font-weight: lighter;
+    font-size: 1.3rem;
+  }
+
+}
+
+d-byline {
+  font-size: 1.0rem;
+}
+
+d-article {
+  p{
+  }
+}
+
+
+// Add gradient background and change title + subtitle color to white
+// Also add a subtle text shadow 
+d-title {
+  background-image: linear-gradient(to right, rgb(38, 99, 156) , rgb(42, 50, 121));
+  color: white;
+
+  h1 {
+
+    // justify-content: center;
+    // background-color: rgba(0, 0, 0, 0.287);
+    // text-shadow: 1px 1px 3px black;
+  }
+
+
+  p {
+    // font-weight: lighter;
+    font-size: 1.3rem;
+    // text-shadow: 1px 1px 2px black;
+    // text-shadow: 1px 1px  black;
+  }
+
+}
+
+// Make author heading blue to match
+d-byline {
+  font-size: 1em;
+  h3 {
+    color: rgb(0, 83, 161);
+    font-size: 0.8em;
+
+  }
+}
+
+// Make article headings green
+d-article {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: rgb(21,153,87);
+    // text-shadow: 1px 1px  black;
+  }
+
+  // Make blockquote nicer
+  blockquote {
+    border-left: 0.3em solid #c5e3ff;
+    color: #575757;
+
+    padding-top: 0.5em;
+    // padding-bottom: 0.5em;
+    padding-left: 1em;
+    padding-right: 1em;
   }
 }
 
