@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: "Climate Change Article: Currently Still A Work in Progress"
+title: "Dummy Article to Test Stuff"
 description: What to do about the current climate crisis
 date: 2021-05-10
 authors:
