@@ -238,9 +238,10 @@ imagemagick:
     - 800
     - 1400
   input_directories:
-    - assets/img/
-    # Ali's further directories 
-    - assets/img/**/
+    - assets/img
+    # Ali's further directories
+    # Use this v if you need to include all dirs in assets/img 
+    # - assets/img/**/
     - assets/img/project_assets/**/
   input_formats:
     - ".jpg"
