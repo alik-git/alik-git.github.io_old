@@ -19,11 +19,11 @@
         {%- capture title -%}{{ site.title }}{%- endcapture -%}
     {%- endif -%}
     {%- if page.title != "blank" and page.url != "/" -%}
-        {%- capture current_page_title -%}{{ title }} | {{ page.title }}{%- endcapture -%}
+        {{ title }} | {{ page.title }}
     {%- else -%}
-        {%- capture current_page_title -%}{{ title }}{%- endcapture -%}
+        {{ title }}
     {%- endif -%}
-    {{ current_page_title }}
+    also {{ site.title }} and {{ title }}
     </title>
     <meta name="author" content="{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}" />
     <meta name="description" content="{%- if page.description -%}{{ page.description }}{%- else -%}{{ site.description }}{%- endif -%}" />
@@ -34,9 +34,9 @@
 {%- if site.serve_og_meta %}
 
     <!-- OpenGraph -->
-    <meta property="og:site_name" content="{{ title }}" />
+    <meta property="og:site_name" content="{{ site.title }}" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="{{ current_page_title }}" />
+    <meta property="og:title" content="{%- if page.title -%}{{ site.title }} | {{ page.title }}{%- else -%}{{ site.title }}{%- endif -%}" />
     <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url | remove_first: 'index.html' }}" />
     <meta property="og:description" content="{%- if page.description -%}{{ page.description }}{%- else -%}{{ site.description }}{%- endif -%}" />
     {% if page.og_image or site.og_image -%}
@@ -46,7 +46,7 @@
 
     <!-- Twitter card -->
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="{{ current_page_title }}" />
+    <meta name="twitter:title" content="{%- if page.title -%}{{ page.title }}{%- else -%}{{ site.title }}{%- endif -%}" />
     <meta name="twitter:description" content="{%- if page.description -%}{{ page.description }}{%- else -%}{{ site.description }}{%- endif -%}" />
     {% if page.og_image or site.og_image -%}
     <meta name="twitter:image" content="{%- if page.og_image -%}{{ page.og_image }}{%- else -%}{{ site.og_image }}{%- endif -%}" />
