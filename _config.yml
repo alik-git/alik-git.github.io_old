@@ -108,6 +108,11 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  dummyposts:
+    defaults: 
+      layout: post
+    output: true
+    permalink: /dummyposts/:path/
 
 news_limit: 5
 
