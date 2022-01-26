@@ -1,8 +1,10 @@
 ---
-layout: post
-title: NeoCirkuits Privacy Policy
-date: 2022-02-19 17:39:00
-description: The privacy policy for the neocirkuits app
+layout: page
+title: Neocirkuits Privacy Policy
+description: The legal stuff for my neocirkuits app
+img:
+importance: 4
+category: fun
 ---
 
 # In a nutshell:
