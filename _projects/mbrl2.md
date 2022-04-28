@@ -2,7 +2,7 @@
 layout: redirect
 title: Duckietown MBRL-Lib 2
 description: Model based reinforcement learning with Gym-Duckietown.
-img: assets/img/project_assets/reach/reach_thumbnail.png
+img: assets/img/project_assets/mbrl/mbrl_thumbnail.png
 rurl: https://www.alihkw.com/duckietown-mbrl-lib
 importance: 1
 date: 2022-04-28
