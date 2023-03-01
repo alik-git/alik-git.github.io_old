@@ -246,7 +246,7 @@ imagemagick:
     - assets/img
     # Ali's further directories
     # Use this v if you need to include all dirs in assets/img 
-    # - assets/img/**/
+    - assets/img/**/
     - assets/img/project_assets/**/
   input_formats:
     - ".jpg"
