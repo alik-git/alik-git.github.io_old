@@ -18,11 +18,11 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there! 😃
 
-My name is Ali and I'm an M.Sc. candidate at the [University of Montréal][UdeM] & [Mila][Mila] supervised by [Prof. Liam Paull][lp] at the [Montreal Robotics and Embodied AI Lab][mlab]. My research interests lie at the intersection of artificial intelligence and robotics. Checkout my work on constructing awesome scene representations for robots [here][cf].
+My name is Ali and I'm an M.Sc. candidate at [Mila][Mila] & the [University of Montréal][UdeM], supervised by [Prof. Liam Paull][lp] at the [Montreal Robotics and Embodied AI Lab][mlab]. My work lies at the intersection of AI and robotics. Ideally, I'd like to help with building truly general purpose robots that can (1) learn new skills from experience and (2) build flexible internal models of how the world works. Checkout my latest work on constructing cool internal models of the world for robots called [ConceptFusion][cf_paper].
 
-**I am currently actively seeking out internship/full-time opportunities for the summer of 2023, and beyond. You can take a look at my resume [here][cv]. If you'd like to get in touch, please don't hesitate to email me at alihusein.kuwajerwala@x, x=umontreal.ca**
+**I am currently actively seeking out internship/full-time opportunities for when I graduate, starting summer 2023 or later. You can take a look at my resume [here][cv]. If you'd like to get in touch, please don't hesitate to email me at alihusein.kuwajerwala@x, x=umontreal.ca, or on LinkedIn**
 
-Previously, I completed an internship at the [Alexa AI][aai] team at [Amazon][amzn], where I worked on using large language models for querying databases. In between my undergrad and master's I was a student researcher at the [Robot, Vision and Learning Lab][RVL] at the [University of Toronto][uoft] supervised by [Prof. Florian Shkurti][flo] where I worked on [visual navigation for mobile robots][eq]. I've also worked in software engineering roles at [Epson][epsn] and [Liquid Analytics][la].
+Previously, I interned at the [Alexa AI][aai] team at [Amazon][amzn], where I worked on using large language models for querying databases. In between my undergrad and master's I was a student researcher at the [Robot, Vision and Learning Lab][RVL] at the [University of Toronto][uoft] supervised by [Prof. Florian Shkurti][flo] where I worked on [visual navigation for mobile robots][eq]. I've also worked in software engineering roles at [Epson][epsn] and [Liquid Analytics][la].
 
 My undergrad was at the [Univeristy of Toronto][uoft] where I studied CS & Math, and also worked as a Teaching Assistant. During my time there I was co-founder of the [UTM Robotics Club][utmr], and a recpient of the [NSERC Undergraduate Student Research Award][na].
 
@@ -49,4 +49,4 @@ When I'm not staring at a screen all day, you can find me training jiu-jitsu, li
 [flo]: http://www.cs.toronto.edu/~florian/
 [aai]: https://www.amazon.jobs/en/teams/alexa-ai
 [amzn]: https://www.aboutamazon.com/news/amazon-ai
-[cf]: https://concept-fusion.github.io/
+[cf_paper]: https://concept-fusion.github.io/
