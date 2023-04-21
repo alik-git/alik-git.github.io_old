@@ -84,7 +84,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name: writingPractice  # your blog must have a name for it to show up in the nav bar
-blog_description: A blog powered mostly be daydreaming.
+blog_description: A blog powered mostly by daydreaming.
 permalink: /blog/:year/:title/
 
 # Pagination
