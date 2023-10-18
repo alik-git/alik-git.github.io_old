@@ -4,7 +4,7 @@ date: 2023-09-28 07:59:00-0400
 inline: true
 ---
 
-We released the [ConceptGraphs][cg_paper] to arxiv! 📜
+We released the [ConceptGraphs][cg_paper] paper to arxiv! 📜
 
 
 
