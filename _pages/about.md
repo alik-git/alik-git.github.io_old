@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there! 😃
 
-My name is Ali and I'm a soon-to-be-graduating (exact date is flexible) master's student at [Mila][Mila] & the [University of Montréal][UdeM], supervised by [Prof. Liam Paull][lp] at the [Montreal Robotics and Embodied AI Lab][mlab]. My work lies at the intersection of AI and robotics. Ideally, I'd like to help with building truly general purpose robots that can (1) build flexible internal models of the world and (2) learn new skills from experience. The [ConceptFusion][cf_paper] and [ConceptGraphs][cg_paper] papers which I worked on during my masters are small steps towards (1).
+My name is Ali and I'm a soon-to-be-graduating master's student at [Mila][Mila] & the [University of Montréal][UdeM], supervised by [Prof. Liam Paull][lp] at the [Montreal Robotics and Embodied AI Lab][mlab]. I'm quite passionate about AI and robotics research, and engaged in the quest to understand and simulate intelligence. The [ConceptFusion][cf_paper] and [ConceptGraphs][cg_paper] papers which I worked on during my masters are small steps towards this goal.
 
 **I am currently actively seeking out work opportunities for both full-time roles and internships. I'm open to relocation and non-robotics roles, what matters to me is working on important problems! You can take a look at my resume [here][cv]. If you'd like to get in touch, please don't hesitate to email me at alihusein.kuwajerwala@x, x=umontreal.ca, or on Twitter/LinkedIn!**
 
