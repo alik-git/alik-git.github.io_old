@@ -24,7 +24,7 @@ My name is Ali and I'm a soon-to-be-graduating master's student at [Mila][Mila] 
 
 Previously, I interned at the [Alexa AI][aai] team at [Amazon][amzn], where I worked on using large language models for querying databases. In between my undergrad and master's I was a student researcher at the [Robot, Vision and Learning Lab][RVL] at the [University of Toronto][uoft] supervised by [Prof. Florian Shkurti][flo] where I worked on [visual navigation for mobile robots][eq]. I've also worked in software engineering roles at [Epson][epsn] and [Liquid Analytics][la].
 
-My undergrad was at the [Univeristy of Toronto][uoft] where I studied CS & Math, and also worked as a Teaching Assistant. During my time there I was co-founder of the [UTM Robotics Club][utmr], and a recpient of the [NSERC Undergraduate Student Research Award][na].
+My undergrad was at the [Univeristy of Toronto][uoft] where I studied CS & Math, and also worked as a Teaching Assistant. During my time there I was co-founder of the [UTM Robotics Club][utmr], and a recipient of the [NSERC Undergraduate Student Research Award][na].
 
 I've also worked on a few fun coding projects which you can look at via my [github profile][gh].
 
