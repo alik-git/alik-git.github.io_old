@@ -26,7 +26,7 @@ Previously, I interned at the [Alexa AI][aai] team at [Amazon][amzn], where I wo
 
 My undergrad was at the [Univeristy of Toronto][uoft] where I studied CS & Math, and also worked as a Teaching Assistant. During my time there I was co-founder of the [UTM Robotics Club][utmr], and a recipient of the [NSERC Undergraduate Student Research Award][na].
 
-I've also worked on a few fun coding projects which you can look at via my [github profile][gh].
+I've also worked on a couple of fun coding projects which you can look at via my [github profile][gh].
 
 When I'm not staring at a screen all day, you can find me training jiu-jitsu, listening to audiobooks and podcasts, doodling, and/or chatting with wonderful people on my [podcast][pd]. ✌️
 
